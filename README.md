@@ -1,2 +1,2 @@
-# run-buddy
+# Run Buddy, Inc.
 under construction...
