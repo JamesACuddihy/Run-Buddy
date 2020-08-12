@@ -1,5 +1,5 @@
-# Run Buddy, Inc.
-Run Buddy is a website and service/ landing page that matches runners with personal trainers, so git in there and sign up!
+# Run Buddy, Inc. 
+Run Buddy is a website and service/ landing page that matches runners with personal trainers, so git in there and sign up! 🏃
 
 ## Built With
 * HTML
