@@ -12,3 +12,6 @@ Run Buddy is a website and service/ landing page that matches runners with perso
 ## Landing Page Screenshot
 
 ## Contribution
+Made with ❤️ by James
+
+### ©️2019 Run Buddy, Inc 
