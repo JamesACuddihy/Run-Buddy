@@ -9,4 +9,6 @@ Run Buddy is a website and service/ landing page that matches runners with perso
 * Blood, sweat & laces
 ## Website
 
+## Landing Page Screenshot
+
 ## Contribution
