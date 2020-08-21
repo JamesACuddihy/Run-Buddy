@@ -8,6 +8,7 @@ Run Buddy is a website and service/ landing page that matches runners with perso
 * CSS 
 * Blood, sweat & laces!
 ## Website
+https://jamesacuddihy.github.io/Run-Buddy/
 
 ## Landing Page Screenshot
 
